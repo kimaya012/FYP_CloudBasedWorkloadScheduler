@@ -1,1 +1,1 @@
-# backend package
+# dashboard package
